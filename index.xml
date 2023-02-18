@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>imhui&#39;s Blog</title>
-    <link>https://imhui77.github.io/</link>
+    <link>https://imhui.github.io/</link>
     <description>Recent content on imhui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>levis9012980@gmail.com (imhui)</managingEditor>
-    <webMaster>levis9012980@gmail.com (imhui)</webMaster><atom:link href="https://imhui77.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>levis9012980@gmail.com (imhui)</webMaster><atom:link href="https://imhui.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
