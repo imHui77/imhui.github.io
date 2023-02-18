@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>imhui&#39;s Blog</title>
-    <link>https://imhui.github.io/</link>
-    <description>Recent content on imhui&#39;s Blog</description>
+    <title>Posts on imhui&#39;s Blog</title>
+    <link>https://imhui.github.io/post/</link>
+    <description>Recent content in Posts on imhui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>levis9012980@gmail.com (imhui)</managingEditor>
     <webMaster>levis9012980@gmail.com (imhui)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://imhui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://imhui.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://imhui.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
@@ -159,17 +159,6 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <author>levis9012980@gmail.com (imhui)</author>
       <guid>https://imhui.github.io/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://imhui.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>levis9012980@gmail.com (imhui)</author>
-      <guid>https://imhui.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
